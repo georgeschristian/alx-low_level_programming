@@ -1,9 +1,10 @@
 #include <stdio.h>
 
+
 /**
  *main - Entry point
- *the use puts function
- *Returns : Always 0(succes)
+ *Description: the using printf function
+ *Return: Always 0 (succes)
  */
 int main(void)
 {

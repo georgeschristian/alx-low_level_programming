@@ -4,7 +4,7 @@
  *main - Entry point
  *The use the function puts
  *
- *Returns: Always 0(succes)
+ *Return: Always 0 (succes)
  */
 int main(void)
 {

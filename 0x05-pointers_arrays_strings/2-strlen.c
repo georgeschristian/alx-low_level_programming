@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- *_strlen - function
- *@s:char printer
+ *_strlen -function
+ *@s:char pinter
  *Description:a function that returns the length of a string
  *Returns:leng of @s or 0 if @s is null
  */

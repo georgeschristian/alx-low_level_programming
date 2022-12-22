@@ -4,7 +4,7 @@
 /**
  *print_array -function
  *@a:integer pointer
- *@n:integer pointer
+ *@n:integer
  *Description:a function that n element of an array
  *Return:nothing
  */

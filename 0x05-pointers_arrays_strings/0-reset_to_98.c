@@ -5,7 +5,7 @@
  *reset_to_98 -function
  *@n:integer pointer
  *Description:a function that takes a pointer to an int as parameter
- *Returns:nothing
+ *Return:nothing
  */
 
 void reset_to_98(int*n)

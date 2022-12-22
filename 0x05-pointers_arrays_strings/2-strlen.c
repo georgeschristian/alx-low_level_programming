@@ -5,7 +5,7 @@
  *_strlen -function
  *@s:char pointer
  *Description: a function that returns the length of a string
- *Returns:leng of @s or 0 if @s is null
+ *Return:leng of @s or 0 if @s is null
  */
 int _strlen(char *s)
 {
